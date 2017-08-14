@@ -63,3 +63,12 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 
 # div_for method
 gem 'record_tag_helper', '~> 1.0'
+
+# User system and authencation
+gem 'devise', '~> 4.2'
+
+# Jquery
+gem 'jquery-rails', '~> 4.0', '>= 4.0.5'
+
+# Vote system
+gem 'acts_as_votable', '~> 0.10.0'
