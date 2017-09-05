@@ -72,3 +72,9 @@ gem 'jquery-rails', '~> 4.0', '>= 4.0.5'
 
 # Vote system
 gem 'acts_as_votable', '~> 0.10.0'
+
+# Upload image
+gem 'carrierwave', '~> 0.11.2'
+
+# Modify the images uploaded
+gem "mini_magick"
