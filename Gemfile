@@ -78,3 +78,6 @@ gem 'carrierwave', '~> 0.11.2'
 
 # Modify the images uploaded
 gem "mini_magick"
+
+# for image(pin) wall RWD
+gem 'masonry-rails', '~> 0.2.4'
